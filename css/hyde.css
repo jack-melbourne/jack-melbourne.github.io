@@ -76,12 +76,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #000000;
+  color: #ffffff;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #000000;
+  color: #ffffff;
   margin-top: 0;
   font-size: 2.25rem;
   font-weight: 400;
@@ -147,7 +147,7 @@ footer {
 }
 
 .img-headshot {
-  border: 0px solid #000;
+  border: 0px solid #fff;
   width: 80%;
 }
 
@@ -159,12 +159,12 @@ footer {
 
 .sidebar {
   background-color: #49757a;
-  color: #000;
+  color: #fff;
 }
 
 .sidebar a,
 .sidebar-about h1 {
-  color: #000;
+  color: #fff;
 }
 
 footer a,
@@ -241,13 +241,13 @@ ul.posts {
 }
 
 .pagination li a:hover {
-  color: #000;
+  color: #fff;
   background-color: #49757a;
   opacity: 0.75;
 }
 
 .pagination li.active a {
-  color: #000;
+  color: #fff;
   background-color: #49757a;
 }
 
