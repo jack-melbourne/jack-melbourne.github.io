@@ -30,6 +30,7 @@
  *
  * Update the foundational and global aspects of the page.
  */
+ <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 
 html {
   font-family: 'Source Sans Pro', sans-serif;
