@@ -147,7 +147,7 @@ footer {
 }
 
 .img-headshot {
-  border: 0px solid #fff;
+  border: 0px solid #000;
   width: 80%;
 }
 
@@ -159,12 +159,12 @@ footer {
 
 .sidebar {
   background-color: #49757a;
-  color: #fff;
+  color: #000;
 }
 
 .sidebar a,
 .sidebar-about h1 {
-  color: #fff;
+  color: #000;
 }
 
 footer a,
@@ -241,13 +241,13 @@ ul.posts {
 }
 
 .pagination li a:hover {
-  color: #fff;
+  color: #000;
   background-color: #49757a;
   opacity: 0.75;
 }
 
 .pagination li.active a {
-  color: #fff;
+  color: #000;
   background-color: #49757a;
 }
 
