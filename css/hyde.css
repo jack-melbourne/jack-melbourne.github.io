@@ -94,6 +94,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
+  color: #fff;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
