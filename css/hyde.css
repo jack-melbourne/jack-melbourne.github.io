@@ -83,9 +83,11 @@ html {
 .sidebar-about h1 {
   color: #000;
   margin-top: 0;
-  font-size: 2.25rem;
+  font-size: 1.75rem;
   font-weight: 400;
 }
+
+
 
 /* Sidebar nav */
 .sidebar-nav {
@@ -112,8 +114,8 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    2rem;
-  padding-bottom: 2rem;
+  padding-top:    0rem;
+  padding-bottom: 0rem;
   min-height: 85%;
 }
 

@@ -1,3 +1,4 @@
+
 /*
  *                        ___
  *                       /\_ \
@@ -103,8 +104,8 @@ h4, h5, h6 {
 
 /* Body text */
 p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
 }
 
 strong {
@@ -235,7 +236,6 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-
 }
 
 
@@ -305,7 +305,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 2em;
+  margin-bottom: 0em;
 }
 
 /* Blog post or page title */

@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soho Theme on Jack Melbourne</title>
+    <title>Jack Melbourne</title>
     <link>https://jmelbourne.github.io/</link>
-    <description>Recent content in Soho Theme on Jack Melbourne</description>
+    <description>Recent content on Jack Melbourne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jmelbourne.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://jmelbourne.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmelbourne.github.io/contact/</guid>
+      <description>Bocconi University
+Department of Economics
+Via Roentgen, 1 - Milan, Italy</description>
+    </item>
+    
     <item>
       <title>CV</title>
       <link>https://jmelbourne.github.io/cv/</link>
