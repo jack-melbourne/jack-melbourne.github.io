@@ -27,6 +27,7 @@ $(document).ready(function(){
     window.open(`https://www.facebook.com/sharer/sharer.php?u=${url}`, "_blank").focus();
   });
 
+
   $(".telegram-share-button").click(function (e) {
     e.preventDefault();
     var self = $(this);
