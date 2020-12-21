@@ -149,7 +149,7 @@ footer {
 
 .img-headshot {
   border: 0px solid #000;
-  width: 180px;
+  width: 200px;
 }
 
 .center {
@@ -172,7 +172,7 @@ footer {
 
 .sidebar a,
 .sidebar-about h1 {
-color: #fff;
+color: #000;
 }
 
 footer a,
