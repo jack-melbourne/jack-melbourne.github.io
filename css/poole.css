@@ -109,6 +109,12 @@ p {
   margin-bottom: 0rem;
    font-size: 0.75rem;
 }
+/* Unordered lists */
+ul {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  font-size: 0.75rem;
+}
 
 strong {
   color: #303030;
