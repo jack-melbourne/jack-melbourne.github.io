@@ -123,6 +123,7 @@ ul {
 }
 li {
   margin-bottom: 0;
+    margin-top: 1em;
   padding-bottom: 0;
 }
 
@@ -133,8 +134,8 @@ strong {
 
 /* Lists */
 ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 0rem;
+  margin-top: 0.6rem;
+  margin-bottom: 0.15rem;
 }
 
 dt {
