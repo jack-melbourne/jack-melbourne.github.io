@@ -5,6 +5,10 @@
   <url>
     <loc>https://jmelbourne.github.io/categories/</loc>
   </url>
+
+    <url>
+    <loc>https://jmelbourne.github.io/research/</loc>
+  </url>
   
   <url>
     <loc>https://jmelbourne.github.io/contact/</loc>
@@ -18,9 +22,7 @@
     <loc>https://jmelbourne.github.io/</loc>
   </url>
   
-  <url>
-    <loc>https://jmelbourne.github.io/research/</loc>
-  </url>
+
   
   <url>
     <loc>https://jmelbourne.github.io/tags/</loc>
